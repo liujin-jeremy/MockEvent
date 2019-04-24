@@ -1,4 +1,4 @@
-package tech.threekilogram.toucheventdispatchlib;
+package tech.liujin.toucheventdispatchlib;
 
 import static org.junit.Assert.assertEquals;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
             // Context of the app under test.
             Context appContext = InstrumentationRegistry.getTargetContext();
 
-            assertEquals( "tech.threekilogram.toucheventdispatchlib", appContext.getPackageName() );
+            assertEquals( "tech.liujin.toucheventdispatchlib", appContext.getPackageName() );
       }
 }

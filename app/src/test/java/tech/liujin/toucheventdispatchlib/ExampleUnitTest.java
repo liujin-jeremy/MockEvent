@@ -1,4 +1,4 @@
-package tech.threekilogram.toucheventdispatchlib;
+package tech.liujin.toucheventdispatchlib;
 
 import static org.junit.Assert.assertEquals;
 
