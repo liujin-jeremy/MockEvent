@@ -50,6 +50,7 @@ public class TestImageView extends android.support.v7.widget.AppCompatImageView 
                         mLastX = x;
                         mLastY = y;
                         Log.i( TAG, "onTouchEvent: move->" + mLastX + "-" + mLastY + " : " + dx + "-" + dy );
+                        scrollBy( (int) dx, (int) dy );
                         break;
 
                   case MotionEvent.ACTION_UP:
