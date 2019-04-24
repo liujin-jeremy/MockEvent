@@ -3,7 +3,7 @@ package tech.threekilogram.toucheventdispatchlib;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import tech.threekilogram.mockevent.MockEvent;
+import tech.liujin.event.MockEvent;
 
 public class MainActivity extends AppCompatActivity {
 

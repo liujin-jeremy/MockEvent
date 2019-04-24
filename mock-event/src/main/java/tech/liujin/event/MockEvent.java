@@ -1,4 +1,4 @@
-package tech.threekilogram.mockevent;
+package tech.liujin.event;
 
 import android.app.Activity;
 import android.os.SystemClock;
