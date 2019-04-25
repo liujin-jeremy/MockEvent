@@ -3,7 +3,7 @@
 ### 引入
 
 ```
-implementation 'tech.liujin:mockevent:1.0.0'
+implementation 'tech.liujin:mock-event:1.0.2'
 ```
 
 ## 使用
